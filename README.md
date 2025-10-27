@@ -26,6 +26,5 @@ Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working wi
   
   💡 *Coding like chess - always thinking several moves ahead*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=eslamaahmed&color=00DC82&style=flat-square)
   
 </div>
