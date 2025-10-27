@@ -20,17 +20,7 @@ Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working wi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eslamaahmed&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1a1b27&title_color=00DC82&icon_color=00DC82)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamaahmed&layout=compact&theme=vue-dark&hide_border=true&bg_color=1a1b27&title_color=00DC82)
-
-</div>
-
----
 
 <div align="center">
   
