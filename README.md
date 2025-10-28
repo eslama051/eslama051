@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working with React, Next.js, and a bit of Node + Express. When I'm not coding, you'll find me playing chess ♟️
+Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working with React, Next.js, and a bit of Node + Express.
 
 ## 💻 Tech Stack
 
