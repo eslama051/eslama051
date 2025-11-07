@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working with React, Next.js, and a bit of Node + Express. When I'm not coding, you'll find me playing chess ♟️
-
+Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working with React, Next.js, and a bit of Node + Express.
 ## 💻 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -19,12 +18,3 @@ Senior Front-End Developer specializing in **Vue.js & Nuxt.js**. Also working wi
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-
-<div align="center">
-  
-  💡 *Coding like chess - always thinking several moves ahead*
-  
-  
-</div>
